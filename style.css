@@ -1,0 +1,63 @@
+.hero {
+    position: relative;
+    height: 60vh;
+    background: url('hero-image.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.biofern {
+    background-color: #007bff;
+}
+
+.certifications img {
+    max-width: 50px;
+}
+
+.therapeutic-range img {
+    max-width: 100%;
+}
+
+.product-gallery img {
+    max-width: 100px;
+}
+
+.facilities img {
+    max-width: 100%;
+}
+
+.research-development {
+    background-color: #f8f9fa;
+}
+
+.global-presence img {
+    max-width: 100%;
+}
+
+.stay-connected img {
+    max-width: 100px;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
+
+footer a {
+    color: #007bff;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer .map {
+    max-width: 100%;
+}
