@@ -5,16 +5,10 @@
     background-size: cover;
 }
 
-.hero-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-}
+
 
 .biofern {
+    height: 95%;
     background-color: #007bff;
 }
 
@@ -26,9 +20,7 @@
     max-width: 100%;
 }
 
-.product-gallery img {
-    max-width: 100px;
-}
+
 
 .facilities img {
     max-width: 100%;
@@ -60,4 +52,32 @@ footer a:hover {
 
 footer .map {
     max-width: 100%;
+}
+
+#sect {
+    height: 500%;
+    width: 50p;
+}
+
+.vl {
+    border-right: 6px black;
+    height: 30%;
+
+}
+
+.ai {
+    padding-right: 10%;
+    margin-left: 0%;
+}
+
+#for {
+    height: 100%;
+    width: 80%;
+    background-color: aquamarine;
+    border-color: black;
+}
+
+#ci{
+    padding-right: 50%;
+    margin-left: 50%;
 }
